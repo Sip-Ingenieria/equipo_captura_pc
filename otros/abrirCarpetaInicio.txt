@@ -1,0 +1,4 @@
+presionar tecla: windows + r
+pegar: shell:startup
+enter
+copiar y pegar acceso directo al script .cmd

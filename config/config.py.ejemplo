@@ -1,0 +1,23 @@
+# EQUIPO CAPTURA PC
+TCP_IP_CLIENTE = 'IP'
+RUTA_ARCHIVO = 'C:/ruta/archivo.txt'
+MAC = 'MAC'
+# MODULO IMPRESORA
+IP = "127.0.0.1"
+PORT = 9100
+NOMBRE_EMPRESA = 'NOMBRE EMPRESA'
+URL = 'wss://IP:PUERTO'
+KEY = 'KEY'
+CANAL = 'CANAL'
+TIPO_COMUNICACION = 'ethernet' # USB - ethernet
+NOMBRE_IMPRESORA = 'NOMBRE' # si se usa el por defecto se debe colocar un None
+USUARIO_ID = 1
+
+# LECTOR BASCULA
+ROUTE = "C:\\ruta\\archivo.txt"
+VEL_BAUDIOS = 9600
+
+# CONFIGURACIONES GENERALES
+MODULO_BASCULA = False
+MODULO_IMPRESORA = False
+MODULO_CAPTURA = False
