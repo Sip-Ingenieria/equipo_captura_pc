@@ -85,8 +85,7 @@ def procesar(s):
             pstring = formatear_dato(file)
             # pstring = valor_bascula
             # log.logging.error("pstring: %s" % pstring)
-            trama = '{"TT": 8,"fh":' + str(fh) + ',"hm": 0,"vp":' + str(float(pstring)) + '}'
-            #print(trama)
+            trama = '{"TT": 8,"fh":' + str(fh) + ',"hm": 0,"vp":' + str(pstring) + '}'
             # log.logging.error("OUTPUT: %s" % trama)
             arr = bytes(trama, 'utf8')
             s.send(arr)

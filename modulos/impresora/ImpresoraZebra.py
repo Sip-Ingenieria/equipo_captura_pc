@@ -14,8 +14,8 @@ class ImpresoraZebra:
                  ancho, unidades_ancho, largo, unidades_largo, codigo, nombre_producto):
         message = "^XA" \
                   "^FO5, 20^ADN, 36, 20^FD %s ^FS" \
-                  "^FO500, 20^ADN 11, 7^FD # ETIQUETA ^FS" \
-                  "^FO555, 40^ADN, 20, 11^FD %s ^FS" \
+                  "^FO500, 20^ADN 26, 11^FD # ETIQUETA ^FS" \
+                  "^FO500, 40^ADN, 28, 15^FD %s ^FS" \
                   "^FO30, 90^ADN 26, 11^FD CODIGO: ^FS" \
                   "^FO120, 90^ADN, 26, 11^FD %s ^FS" \
                   "^FO30, 130^ADN, 26, 11^FD %s ^FS" \
