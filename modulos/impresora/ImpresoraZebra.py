@@ -31,8 +31,8 @@ class ImpresoraZebra:
                   "^FO120, 270^ADN, 36, 20^FD %s ^FS" \
                   "^FO30, 330^ADN. 26, 11^FD LARGO: ^FS" \
                   "^FO120, 330^ADN, 36, 20^FD %s ^FS" \
-                  "^FO410, 270^ADN, 36, 20" \
-                  "^B5N, 100, Y, N" \
+                  "^FO330, 270^ADN, 36, 20" \
+                  "^B2N, 100, Y, N, N" \
                   "^FD %s^FS" \
                   "^XZ" % (nombre_empresa,
                            n_etiqueta, testo, nombre_producto, descripcion,
