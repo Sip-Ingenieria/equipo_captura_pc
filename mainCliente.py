@@ -6,8 +6,9 @@ import time
 import traceback
 import log
 import modulos.impresora.main as impresora
-import modulos.bascula.main as bascula
+# import modulos.bascula.main as bascula
 from multiprocessing import Process
+import RunSocket
 
 """------------------------------------------------------------------
     CONSTANTES PARA LA CONEXIÒN DE DATOS
@@ -15,6 +16,7 @@ from multiprocessing import Process
 
 TIMEOUT_CONEXION = 30
 TCP_PORT = 46583
+
 
 
 def conectar():
@@ -44,9 +46,10 @@ def inciar_cliente():
         time.sleep(1)
 
 
-if __name__ == '__main__':
+def operacion():
     p = None
     q = None
+
     if configuracion.MODULO_BASCULA is True:
         p = Process(target=bascula.iniciar, name='bascula')
         p.start()
@@ -62,3 +65,13 @@ if __name__ == '__main__':
         p.join()
     if q is not None:
         q.join()
+
+
+if __name__ == '__main__':
+
+    if RunSocket.consultar() is True:
+        exit()
+    p = RunSocket.iniciar_hilo()
+    operacion()
+    if p is not None:
+        p.join()

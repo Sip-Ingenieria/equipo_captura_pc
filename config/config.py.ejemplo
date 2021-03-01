@@ -21,3 +21,8 @@ VEL_BAUDIOS = 9600
 MODULO_BASCULA = False
 MODULO_IMPRESORA = False
 MODULO_CAPTURA = False
+
+#para ejecutar el servicio varias veces sin que se inicie mas de una instancia
+PUERTO_SOCKET_BLOQUEO = 19876
+TIMEOUT_CONEXION_BLOQUEO = 5
+DIRECCION_IP_BLOQUEO = "127.0.0.1"
