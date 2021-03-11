@@ -6,7 +6,7 @@ import time
 import traceback
 import log
 import modulos.impresora.main as impresora
-#import modulos.bascula.main as bascula
+import modulos.bascula.main as bascula
 from multiprocessing import Process
 import RunSocket
 
