@@ -1,9 +1,13 @@
 from Etiqueta import Etiqueta
 import json
-import logging
+#import logging
 import websocket
 import ssl
 from multiprocessing import Process
+
+import sys
+sys.path.append( '../../' )
+import log
 
 def etiqueta_empres_x(diccionario):
     nombre=diccionario['nombre_etiqueta']
@@ -216,10 +220,12 @@ def on_mensaje(ws,message):
 
 def on_error(ws,error):
     print (error)
+    log.logging.error("crear_etiquetas error %s" % error)
 
 
 def on_close(ws):
-    print  ('ws closed')
+    print  ('crear_etiquetas : ws closed')
+    log.logging.info("crear_etiquetas : ws closed")
 
 
 def iniciar_con_hilo():

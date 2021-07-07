@@ -19,10 +19,8 @@ def abrir_puerto():
         try:
             s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
             s.bind((configuracion.DIRECCION_IP_BLOQUEO, configuracion.PUERTO_SOCKET_BLOQUEO))
-            s.settimeout(configuracion.TIMEOUT_CONEXION_BLOQUEO)
             s.listen(1)
             sc, addr = s.accept()
-
         except:
             log.logging.error("timeout")
             pass
@@ -35,6 +33,7 @@ def iniciar_hilo():
 
 
 def iniciar():
+    log.logging.error("iniciar run socket")
     abierto = consultar()
     if abierto is True:
         exit()

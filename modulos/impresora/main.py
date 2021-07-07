@@ -4,8 +4,12 @@ import json
 import websocket
 import ssl
 import traceback
-import modulos.impresora.log as log
+#import modulos.impresora.log as log
 import config.config as archivoConfig
+
+import sys
+sys.path.append( '../../' )
+import log
 
 from multiprocessing import Process
 from modulos.impresora.ImpresoraZebra import ImpresoraZebra
@@ -32,12 +36,13 @@ def on_mensaje(ws, message):
 
 
 def on_error(ws, error):
-    log.logging.info('error %s' % error)
+    log.logging.info(' impresora error %s' % error)
     return
 
 
 def on_close(ws):
-    print ('ws closed')
+    print ('impresora : ws closed')
+    log.logging.info('impresora : ws closed')
 
 
 def iniciar_con_hilo():
@@ -47,6 +52,11 @@ def iniciar_con_hilo():
 
 
 def iniciar():
+
+    #print("impresora....")
+
+    log.logging.info("iniciando sistema de impresora")
+
     url = archivoConfig.URL
     key = archivoConfig.KEY
     canal = archivoConfig.CANAL

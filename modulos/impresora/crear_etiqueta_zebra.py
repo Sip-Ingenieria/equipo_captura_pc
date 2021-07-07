@@ -6,6 +6,10 @@ import websocket
 import ssl
 from multiprocessing import Process
 
+import sys
+sys.path.append( '../../' )
+import log
+
 import socket
 import traceback
 
@@ -78,10 +82,12 @@ def on_mensaje(ws, message):
 
 def on_error(ws,error):
     print (error)
+    log.logging.error("crear_etiquetas_zebra error %s" % error)
 
 
 def on_close(ws):
-    print ('ws closed')
+    print ('crear_etiquetas_zebra : ws closed')
+    log.logging.info("crear_etiquetas_zebra : ws closed")
 
 
 def iniciar_con_hilo():

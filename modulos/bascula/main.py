@@ -1,5 +1,11 @@
 # -*- coding: utf-8 -*-
-import modulos.bascula.log as log
+#import modulos.bascula.log as log
+
+
+import sys
+sys.path.append( '../../' )
+import log
+
 import serial
 import serial.tools.list_ports
 import time
