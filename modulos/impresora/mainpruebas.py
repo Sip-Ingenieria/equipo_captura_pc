@@ -9,7 +9,7 @@ if __name__ == '__main__':
     while True:
         try:
             mainCliente.iniciar()
-            log.logging.info('intentando conectar')
+            log.logging.info('intentando conectar***')
         except:
             log.logging.info('Error: %s' % traceback.format_exc())
             pass

@@ -38,7 +38,6 @@ def inciar_cliente():
     while True:
         try:
             conectar()
-            log.logging.info("intentando conectar")
         except:
             log.logging.error("Error: %s" % traceback.format_exc())
             pass

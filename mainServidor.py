@@ -43,7 +43,6 @@ def operacion():
         try:
             iniciarServidor()
             time.sleep(1)
-            log.logging.info("intentando conectar")
         except:
             log.logging.error("Error: %s" % traceback.format_exc())
             pass
