@@ -10,6 +10,9 @@ import modulos.bascula.main as bascula
 from multiprocessing import Process
 import RunSocket
 
+import time
+import random
+
 """------------------------------------------------------------------
     CONSTANTES PARA LA CONEXIÒN DE DATOS
 ------------------------------------------------------------------"""
@@ -67,6 +70,10 @@ def operacion():
 
 
 if __name__ == '__main__':
+
+    tiempoRandom = random.randint(2, 10)
+
+    time.sleep(tiempoRandom)
 
     if RunSocket.consultar() is True:
         exit()

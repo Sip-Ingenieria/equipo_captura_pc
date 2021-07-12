@@ -12,6 +12,7 @@ import time
 import traceback
 import config.config as configuraciones
 import procesamiento
+
 """------------------------------------------------------------------
     CONSTANTES PARA LA CONEXIÒN DE DATOS
 ------------------------------------------------------------------"""
@@ -72,6 +73,7 @@ def pesar():
 
 def iniciar():
     log.logging.info("iniciando sistema de pesaje")
+
     while True:
         try:
             pesar()
