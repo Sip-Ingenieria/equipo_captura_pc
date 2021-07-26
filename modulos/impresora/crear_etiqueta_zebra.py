@@ -1,7 +1,6 @@
 # agregar libreria websocket-client
 # version 0.57.0
 import json
-import logging
 import websocket
 import ssl
 from multiprocessing import Process
@@ -12,6 +11,8 @@ import log
 
 import socket
 import traceback
+
+logger = log.configurar('servicio_impresora')
 
 
 def etiqueta(nombre_empresa, n_etiqueta, testo, descripcion, ot, cantidad, peso, unidades, ancho, largo,  codigo ):
@@ -82,12 +83,12 @@ def on_mensaje(ws, message):
 
 def on_error(ws,error):
     print (error)
-    log.logging.error("crear_etiquetas_zebra error %s" % error)
+    logger.error("crear_etiquetas_zebra error %s" % error)
 
 
 def on_close(ws):
     print ('crear_etiquetas_zebra : ws closed')
-    log.logging.info("crear_etiquetas_zebra : ws closed")
+    logger.info("crear_etiquetas_zebra : ws closed")
 
 
 def iniciar_con_hilo():

@@ -9,6 +9,9 @@ import sys
 sys.path.append( '../../' )
 import log
 
+logger = log.configurar('servicio_impresora')
+
+
 def etiqueta_empres_x(diccionario):
     nombre=diccionario['nombre_etiqueta']
     empresa=diccionario['nombre_empresa']
@@ -220,12 +223,12 @@ def on_mensaje(ws,message):
 
 def on_error(ws,error):
     print (error)
-    log.logging.error("crear_etiquetas error %s" % error)
+    logger.error("crear_etiquetas error %s" % error)
 
 
 def on_close(ws):
     print  ('crear_etiquetas : ws closed')
-    log.logging.info("crear_etiquetas : ws closed")
+    logger.info("crear_etiquetas : ws closed")
 
 
 def iniciar_con_hilo():

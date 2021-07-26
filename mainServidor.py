@@ -36,25 +36,26 @@ def iniciarServidor():
             try:
                 procesamiento.procesar(sc)
             except:
-                log.logging.error("error conexion")
+                logger.error("error conexion")
                 pass
         except:
-            log.logging.error("timeout")
+            logger.error("timeout")
             pass
 
 
 def operacion():
-    log.logging.info("iniciando servidor")
+    logger.info("iniciando servidor")
     while True:
         try:
             iniciarServidor()
             time.sleep(1)
         except:
-            log.logging.error("Error: %s" % traceback.format_exc())
+            logger.error("Error: %s" % traceback.format_exc())
             pass
 
 
 if __name__ == '__main__':
+    logger = log.configurar('equipo_captura_pc')
 
     tiempoRandom = random.randint(2, 10)
 

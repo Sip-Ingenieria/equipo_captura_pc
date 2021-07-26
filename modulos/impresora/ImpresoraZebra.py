@@ -1,8 +1,11 @@
 import socket
 import traceback
-import log
 import win32print, win32ui, win32con
+import sys
+sys.path.append( '../../' )
+import log
 
+logger = log.configurar('servicio_impresora')
 
 class ImpresoraZebra:
     def __init__(self, ip, port):
@@ -71,7 +74,7 @@ class ImpresoraZebra:
             mysocket.send(etiqueta)
             mysocket.close()
         except:
-            log.logging.info('Error de comunicacion: %s' % traceback.format_exc())
+            logger.info('Error de comunicacion: %s' % traceback.format_exc())
 
         return
 
@@ -90,12 +93,12 @@ class ImpresoraZebra:
                 win32print.WritePrinter(hPrinter, comando)
                 win32print.EndPagePrinter(hPrinter)
             except:
-                log.logging.info('error imprimiendo: %s' % traceback.format_exc())
+                logger.info('error imprimiendo: %s' % traceback.format_exc())
 
             finally:
                 win32print.EndDocPrinter(hPrinter)
         except:
-            log.logging.info('error abriendo el documento para imprimir: %s' % traceback.format_exc())
+            logger.info('error abriendo el documento para imprimir: %s' % traceback.format_exc())
 
         finally:
             win32print.ClosePrinter(hPrinter)

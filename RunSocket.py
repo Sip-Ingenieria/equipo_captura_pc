@@ -2,12 +2,13 @@ import socket
 from multiprocessing import Process
 import config.config as configuracion
 import log
+logger = log.configurar('equipo_captura_pc')
 
 
 def consultar():
     s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     result = s.connect_ex((configuracion.DIRECCION_IP_BLOQUEO, configuracion.PUERTO_SOCKET_BLOQUEO))
-    log.logging.error('el codigo que retorna la conexion es: %s' % result)
+    logger.error('el codigo que retorna la conexion es: %s' % result)
     print('el codigo que retorna la conexion es: %s' % result)
     if result == 0:
         return True
@@ -26,7 +27,7 @@ def abrir_puerto():
             sc, addr = s.accept()
             s.close()
         except:
-            log.logging.error("timeout")
+            logger.error("timeout")
             pass
 
 
@@ -37,7 +38,7 @@ def iniciar_hilo():
 
 
 def iniciar():
-    log.logging.error("iniciar run socket")
+    logger.error("iniciar run socket")
     abierto = consultar()
     if abierto is True:
         exit()

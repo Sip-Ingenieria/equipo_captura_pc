@@ -9,6 +9,9 @@ import modulos.impresora.main as impresora
 import modulos.bascula.main as bascula
 from multiprocessing import Process
 import RunSocket
+import win32api, win32event
+import os, sys
+from winerror import ERROR_ALREADY_EXISTS
 
 import time
 import random
@@ -30,27 +33,34 @@ def conectar():
         s.connect((configuracion.TCP_IP_CLIENTE, TCP_PORT))
         procesamiento.procesar(s)
     except:
-        log.logging.error("Error: %s" % traceback.format_exc())
+        logger.error("Error: %s" % traceback.format_exc())
         pass
 
     s.close()
 
 
 def inciar_cliente():
-    log.logging.info("iniciando cliente")
+    logger.info("iniciando cliente")
     while True:
         try:
             conectar()
         except:
-            log.logging.error("Error: %s" % traceback.format_exc())
+            logger.error("Error: %s" % traceback.format_exc())
             pass
 
+        time.sleep(1)
+
+
+def iniciar_impresora_hilo():
+    while True:
+        impresora.iniciar()
         time.sleep(1)
 
 
 def operacion():
     p = None
     q = None
+    z = None
 
     if configuracion.MODULO_BASCULA is True:
         p = Process(target=bascula.iniciar, name='bascula')
@@ -59,17 +69,31 @@ def operacion():
         q = Process(target=inciar_cliente, name='cliente')
         q.start()
     if configuracion.MODULO_IMPRESORA is True:
-        while True:
-            impresora.iniciar()
-            time.sleep(1)
+        z = Process(target=iniciar_impresora_hilo, name='impresora_hilo')
+        z.start()
+        #while True:
+        #    impresora.iniciar()
+        #    time.sleep(1)
 
     if p is not None:
         p.join()
     if q is not None:
         q.join()
+    if z is not None:
+        z.join()
 
 
 if __name__ == '__main__':
+    logger = log.configurar('equipo_captura_pc')
+
+    mutex = win32event.CreateMutex(None, False, 'api')
+    error = win32api.GetLastError()
+    print(error)
+
+    if error == ERROR_ALREADY_EXISTS:
+        logger.info("esta app ya esta abierta")
+        sys.exit('esta app ya esta abierta')
+        #exit('esta app ya esta abierta')
 
     tiempoRandom = random.randint(2, 10)
 

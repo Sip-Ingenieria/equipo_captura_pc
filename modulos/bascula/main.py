@@ -3,7 +3,7 @@
 
 
 import sys
-sys.path.append( '../../' )
+sys.path.append('../../')
 import log
 
 import serial
@@ -18,12 +18,13 @@ import procesamiento
 ------------------------------------------------------------------"""
 
 TIMEOUT_CONEXION = 1
+logger = log.configurar('servicio_bascula')
 
 
 def pesar():
     linea = ""
-    a = 1#a = 0 #0 en condiciones normales
-    p = list(serial.tools.list_ports.comports()) #lista todos los puertos
+    a = 1   # a = 0 #0 en condiciones normales
+    p = list(serial.tools.list_ports.comports())   # lista todos los puertos
     for numero in p:
         #print (numero)
         #if numero.device!='/dev/ttyUSB0':
@@ -72,16 +73,19 @@ def pesar():
 
 
 def iniciar():
-    log.logging.info("iniciando sistema de pesaje")
+    logger.info("iniciando sistema de pesaje")
 
     while True:
         try:
             pesar()
             time.sleep(1)
-            log.logging.info("init")
+            logger.info("init")
         except:
-            log.logging.error("Error: %s" % traceback.format_exc())
-            pass
+            error = "Error: %s" % traceback.format_exc()
+            if 'PermissionError' in error:
+                pass
+            else:
+                logger.error("%s" % error)
 
 
 if __name__ == '__main__':

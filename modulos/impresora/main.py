@@ -14,6 +14,8 @@ import log
 from multiprocessing import Process
 from modulos.impresora.ImpresoraZebra import ImpresoraZebra
 
+logger = log.configurar('servicio_impresora')
+
 
 def on_mensaje(ws, message):
 
@@ -31,18 +33,18 @@ def on_mensaje(ws, message):
             else:
                 impresoraZebra.imprimir_ethernet(etiqueta)
     except:
-        log.logging.info('error procesando datos: %s' % traceback.format_exc())
+        logger.info('error procesando datos: %s' % traceback.format_exc())
         raise
 
 
 def on_error(ws, error):
-    log.logging.info(' impresora error %s' % error)
+    logger.info(' impresora error %s' % error)
     return
 
 
 def on_close(ws):
     print ('impresora : ws closed')
-    log.logging.info('impresora : ws closed')
+    logger.info('impresora : ws closed')
 
 
 def iniciar_con_hilo():
@@ -52,10 +54,9 @@ def iniciar_con_hilo():
 
 
 def iniciar():
-
     #print("impresora....")
 
-    log.logging.info("iniciando sistema de impresora")
+    logger.info("iniciando sistema de impresora")
 
     url = archivoConfig.URL
     key = archivoConfig.KEY

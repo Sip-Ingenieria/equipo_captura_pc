@@ -1,0 +1,2033 @@
+2021-07-24 16:10:22,004 el codigo que retorna la conexion es: 10061
+2021-07-24 16:10:22,191 iniciando sistema de pesaje
+2021-07-24 16:10:22,222 iniciar run socket
+2021-07-24 16:10:22,269 iniciando sistema de impresora
+2021-07-24 16:10:23,205 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:10:23,252 el codigo que retorna la conexion es: 10061
+2021-07-24 16:10:24,235 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:10:25,264 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:10:26,294 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:10:27,323 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:10:28,353 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:10:29,383 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:10:30,412 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:10:31,442 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:10:32,471 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:10:33,501 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:10:34,531 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:10:35,560 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:10:36,590 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:10:37,619 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:10:38,649 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:10:39,679 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:10:40,708 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:10:41,738 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:10:42,767 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:10:43,313  impresora error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2021-07-24 16:10:43,313 impresora : ws closed
+2021-07-24 16:10:43,797 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:10:44,327 iniciando sistema de impresora
+2021-07-24 16:10:44,842 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:10:45,872 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:10:46,901 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:10:47,931 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:10:48,960 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:10:49,990 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:10:51,020 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:10:52,049 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:10:53,079 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:10:54,108 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:10:55,138 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:10:56,168 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:10:57,197 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:10:58,227 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:10:59,256 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:11:00,286 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:11:01,315 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:11:02,345 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:11:03,375 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:11:04,404 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:11:05,340  impresora error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2021-07-24 16:11:05,340 impresora : ws closed
+2021-07-24 16:11:05,434 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:11:06,354 iniciando sistema de impresora
+2021-07-24 16:11:06,463 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:11:07,493 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:11:08,523 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:11:09,552 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:11:10,582 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:11:11,611 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:11:12,656 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:11:13,686 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:11:14,716 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:11:15,746 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:11:16,776 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:11:17,805 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:11:18,835 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:11:19,865 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:11:20,894 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:11:21,924 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:11:22,953 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:11:23,983 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:11:25,013 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:11:26,042 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:11:27,072 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:11:27,384  impresora error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2021-07-24 16:11:27,384 impresora : ws closed
+2021-07-24 16:11:28,101 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:11:28,398 iniciando sistema de impresora
+2021-07-24 16:11:29,131 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:11:30,160 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:11:31,190 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:11:32,220 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:11:33,249 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:11:34,279 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:11:35,308 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:11:36,338 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:11:37,368 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:11:38,397 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:11:39,427 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:11:40,456 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:11:41,486 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:11:42,516 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:11:43,545 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:11:44,575 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:11:45,604 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:11:46,634 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:11:47,663 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:11:48,693 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:11:49,426  impresora error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2021-07-24 16:11:49,426 impresora : ws closed
+2021-07-24 16:11:49,723 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:11:50,440 iniciando sistema de impresora
+2021-07-24 16:11:50,752 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:11:51,782 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:11:52,811 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:11:53,841 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:11:54,871 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:11:55,900 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:11:56,945 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:11:57,975 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:11:59,004 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:12:00,034 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:12:01,064 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:12:02,093 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:12:03,123 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:12:04,152 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:12:05,182 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:12:06,212 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:12:07,241 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:12:08,271 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:12:09,300 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:12:10,330 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:12:11,360 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:12:11,469  impresora error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2021-07-24 16:12:11,469 impresora : ws closed
+2021-07-24 16:12:12,389 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:12:12,483 iniciando sistema de impresora
+2021-07-24 16:12:13,419 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:12:14,448 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:12:15,478 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:12:16,508 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:12:17,538 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:12:18,568 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:12:19,597 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:12:20,627 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:12:21,656 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:12:22,686 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:12:23,716 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:12:24,745 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:12:25,775 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:12:26,804 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:12:27,834 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:12:28,864 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:12:29,893 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:12:30,923 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:12:31,952 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:12:32,982 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:12:33,512  impresora error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2021-07-24 16:12:33,512 impresora : ws closed
+2021-07-24 16:12:34,011 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:12:34,526 iniciando sistema de impresora
+2021-07-24 16:12:35,041 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:12:36,071 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:12:37,100 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:12:38,130 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:12:39,159 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:12:40,189 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:12:41,219 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:12:42,248 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:12:43,278 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:12:44,307 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:12:45,337 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:12:46,366 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:12:47,396 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:12:48,426 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:12:49,455 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:12:50,485 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:12:51,514 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:12:52,544 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:12:53,574 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:12:54,603 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:12:55,555  impresora error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2021-07-24 16:12:55,555 impresora : ws closed
+2021-07-24 16:12:55,633 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:12:56,569 iniciando sistema de impresora
+2021-07-24 16:12:56,662 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:12:57,692 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:12:58,722 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:12:59,751 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:13:00,781 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:13:01,810 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:13:02,840 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:13:03,869 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:13:04,899 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:13:05,944 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:13:06,974 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:13:08,003 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:13:09,033 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:13:10,063 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:13:11,092 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:13:12,122 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:13:13,151 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:13:14,181 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:13:15,211 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:13:16,241 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:13:17,271 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:13:17,598  impresora error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2021-07-24 16:13:17,598 impresora : ws closed
+2021-07-24 16:13:18,300 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:13:18,612 iniciando sistema de impresora
+2021-07-24 16:13:19,330 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:13:20,359 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:13:21,389 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:13:22,419 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:13:23,448 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:13:24,478 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:13:25,507 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:13:26,537 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:13:27,567 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:13:28,596 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:13:29,626 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:13:30,655 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:13:31,685 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:13:32,714 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:13:33,744 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:13:34,774 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:13:35,803 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:13:36,833 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:13:37,862 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:13:38,892 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:13:39,641  impresora error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2021-07-24 16:13:39,641 impresora : ws closed
+2021-07-24 16:13:39,922 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:13:40,655 iniciando sistema de impresora
+2021-07-24 16:13:40,951 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:13:41,981 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:13:43,010 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:13:44,040 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:13:45,070 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:13:46,099 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:13:47,129 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:13:48,158 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:13:49,188 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:13:50,217 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:13:51,247 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:13:52,277 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:13:53,306 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:13:54,336 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:13:55,365 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:13:56,395 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:13:57,425 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:13:58,454 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:13:59,484 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:14:00,513 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:14:01,543 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:14:01,683  impresora error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2021-07-24 16:14:01,683 impresora : ws closed
+2021-07-24 16:14:02,573 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:14:02,697 iniciando sistema de impresora
+2021-07-24 16:14:03,602 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:14:04,632 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:14:05,661 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:14:06,691 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:14:07,720 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:14:08,750 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:14:09,780 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:14:10,809 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:14:11,839 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:14:12,868 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:14:13,898 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:14:14,928 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:14:15,958 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:14:16,988 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:14:18,017 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:14:19,047 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:14:20,076 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:14:21,106 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:14:22,136 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:14:23,165 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:14:23,727  impresora error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2021-07-24 16:14:23,727 impresora : ws closed
+2021-07-24 16:14:24,195 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:14:24,741 iniciando sistema de impresora
+2021-07-24 16:14:25,224 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:14:26,254 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:14:27,284 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:14:28,313 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:14:29,343 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:14:30,372 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:14:31,402 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:14:32,432 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:14:33,461 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:14:34,491 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:14:35,520 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:14:36,550 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:14:37,579 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:14:38,609 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:14:39,639 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:14:40,668 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:14:41,698 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:14:42,727 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:14:43,757 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:14:44,787 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:14:45,769  impresora error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2021-07-24 16:14:45,769 impresora : ws closed
+2021-07-24 16:14:45,816 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:14:46,783 iniciando sistema de impresora
+2021-07-24 16:14:46,846 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:14:47,875 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:14:48,905 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:14:49,935 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:14:50,964 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:14:51,994 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:14:53,023 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:14:54,053 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:14:55,082 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:14:56,112 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:14:57,142 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:14:58,171 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:14:59,201 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:15:00,230 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:15:01,260 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:15:02,290 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:15:03,319 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:15:04,364 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:15:05,394 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:15:06,423 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:15:07,453 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:15:07,812  impresora error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2021-07-24 16:15:07,812 impresora : ws closed
+2021-07-24 16:15:08,483 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:15:08,826 iniciando sistema de impresora
+2021-07-24 16:15:09,512 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:15:10,542 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:15:11,571 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:15:12,601 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:15:13,631 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:15:14,660 Error: Traceback (most recent call last):
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 79, in iniciar
+    pesar()
+  File "C:\equipo_captura_pc\modulos\bascula\main.py", line 43, in pesar
+    linea = hex(ord(com.read()))
+TypeError: ord() expected a character, but string of length 0 found
+
+2021-07-24 16:15:29,822 impresora : ws closed
