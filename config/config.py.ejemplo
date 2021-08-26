@@ -11,7 +11,7 @@ KEY = 'KEY'
 CANAL = 'CANAL'
 TIPO_COMUNICACION = 'ethernet' # USB - ethernet
 NOMBRE_IMPRESORA = 'NOMBRE' # si se usa el por defecto se debe colocar un None
-IMPRESORA_ID = 1
+USUARIO_ID = 1
 
 # LECTOR BASCULA
 ROUTE = "C:\\ruta\\archivo.txt"
