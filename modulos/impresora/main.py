@@ -26,7 +26,7 @@ def on_mensaje(ws, message):
             return
 
         datos = json.loads(message, object_hook=dict)
-        if datos['usuario_id'] == archivoConfig.USUARIO_ID:
+        if datos['usuario_id'] == archivoConfig.IMPRESORA_ID:
             etiqueta = impresoraZebra.crear_etiqueta(datos, archivoConfig.NOMBRE_EMPRESA)
             if archivoConfig.TIPO_COMUNICACION == 'USB':
                 impresoraZebra.imprimir_usb(etiqueta, archivoConfig.NOMBRE_IMPRESORA)

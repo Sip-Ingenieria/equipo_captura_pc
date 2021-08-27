@@ -24,6 +24,9 @@ TIMEOUT_CONEXION = 30
 TCP_PORT = 46583
 
 
+logger = log.configurar('equipo_captura_pc')
+
+
 
 def conectar():
     s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
@@ -84,7 +87,7 @@ def operacion():
 
 
 if __name__ == '__main__':
-    logger = log.configurar('equipo_captura_pc')
+    
 
     mutex = win32event.CreateMutex(None, False, 'api')
     error = win32api.GetLastError()
