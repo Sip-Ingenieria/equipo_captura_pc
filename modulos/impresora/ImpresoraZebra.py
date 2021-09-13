@@ -35,8 +35,8 @@ class ImpresoraZebra:
                   "^FO30, 330^ADN. 26, 11^FD LARGO: ^FS" \
                   "^FO120, 330^ADN, 36, 20^FD %s ^FS" \
                   "^FO330, 270^ADN, 36, 20" \
-                  "^B2N, 100, Y, N, N" \
-                  "^FD %s^FS" \
+                  "^BQN, 2, 5" \
+                  "^FDHM,A%s^FS" \
                   "^XZ" % (nombre_empresa,
                            n_etiqueta, testo, nombre_producto, descripcion,
                            ot, cantidad, peso, unidades[0], ancho, largo, codigo)
@@ -74,6 +74,7 @@ class ImpresoraZebra:
             mysocket.send(etiqueta)
             mysocket.close()
         except:
+            #print traceback.format_exc()
             logger.info('Error de comunicacion: %s' % traceback.format_exc())
 
         return

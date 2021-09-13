@@ -23,13 +23,14 @@ def etiqueta(nombre_empresa, n_etiqueta, testo, descripcion, ot, cantidad, peso,
              b"^FO400, 200^ADN. 26, 11^FD LARGO: ^FS" \
              b"^FO500, 200^ADN, 36, 20^FD %s ^FS" \
              b"^FO200, 270^ADN, 36, 20" \
-             b"^B5N, 100, Y, N" \
+             b"^BQN, 2, 10" \
              b"^FD %s^FS" \
              b"^XZ" % (nombre_empresa, n_etiqueta, testo, descripcion, ot, cantidad, peso, unidades, ancho, largo, codigo)
 
     return message
 
 
+print 'here'
 mysocket = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
 host = "127.0.0.1"
 pot = 9100
@@ -43,6 +44,7 @@ peso = 78
 ancho = 1.25
 largo = 1.25
 n_etiqueta = 150
+print etiqueta(nombre_empresa, n_etiqueta, codigo, pedido, OT, cantidad, peso, 'kg', ancho, largo, 12345678901)
 
 try:
     mysocket.connect((host, pot))
