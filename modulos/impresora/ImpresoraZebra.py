@@ -14,7 +14,16 @@ class ImpresoraZebra:
         self.mysocket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
     def etiqueta(self, nombre_empresa, n_etiqueta, testo, descripcion, ot, cantidad, peso, unidades,
-                 ancho, unidades_ancho, largo, unidades_largo, codigo, nombre_producto):
+                 ancho, unidades_ancho, largo, unidades_largo, codigo, nombre_producto, codigo_b='barras'):
+
+        if codigo_b == 'barras':
+            codigo_barras = "^B2N, 100, Y, N, N" \
+            "^FD %s^FS" % codigo
+
+        else:
+            codigo_barras = "^BQN, 2, 5" \
+            "^FDHM,A%s^FS" % codigo
+
         message = "^XA" \
                   "^FO5, 20^ADN, 36, 20^FD %s ^FS" \
                   "^FO500, 20^ADN 26, 11^FD # ETIQUETA ^FS" \
@@ -35,11 +44,10 @@ class ImpresoraZebra:
                   "^FO30, 330^ADN. 26, 11^FD LARGO: ^FS" \
                   "^FO120, 330^ADN, 36, 20^FD %s ^FS" \
                   "^FO330, 270^ADN, 36, 20" \
-                  "^BQN, 2, 5" \
-                  "^FDHM,A%s^FS" \
+                  "%s"\
                   "^XZ" % (nombre_empresa,
                            n_etiqueta, testo, nombre_producto, descripcion,
-                           ot, cantidad, peso, unidades[0], ancho, largo, codigo)
+                           ot, cantidad, peso, unidades[0], ancho, largo, codigo_barras)
 
         message_byte = message.encode('utf-8')
 
