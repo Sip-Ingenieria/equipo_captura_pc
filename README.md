@@ -12,16 +12,16 @@ INF:
 
 EL modulo bascula busca un puerto serial disponible y se conecta al primero que encuentre, luego escribe un arhivo en la ruta especificada
 
-El modulo impresora busca la impresora llamada ZDesigner ZT230-300dpi ZPL, esta se instala a traves de su controlador propio, preferiblemente. Importante ZPL
+El modulo impresora busca la impresora llamada definida en el archivo de configuración, instalar ZDesigner ZT230-300dpi ZPL, esta se instala a traves de su controlador propio, preferiblemente. Importante ZPL
 
 configurar a: darkness 15 # superior si se ve requerido vel 50 orientacion normal
 
 CONFIG:
 
-Configurar configuracion.py
+Renombrar configuracion.py.ejemplo a configuracion.py
 
 RUTA_ARCHIVO = 'C:/EXAMPLE/EXAMPLE.txt' #ruta archivo leido
 
 Ajustar MAC: '00:11:22:33:44:55' # MAC del equipo que tiene la bascula
 
-Ajustar USUARIO ID: 1 # Debe concordar con el usuario de la interface web
+Ajustar Impresora ID: 1 # Debe concordar con el usuario de la interface web

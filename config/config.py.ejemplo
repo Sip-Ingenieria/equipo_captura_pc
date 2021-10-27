@@ -1,26 +1,26 @@
 # EQUIPO CAPTURA PC
-TCP_IP_CLIENTE = 'IP'
-RUTA_ARCHIVO = 'C:/ruta/archivo.txt'
-MAC = 'MAC'
+TCP_IP_CLIENTE = 'IP' #IP del servidor
+RUTA_ARCHIVO = 'C:/ruta/archivo.txt' #ruta donde va a escribir el peso
+MAC = 'MAC' #MAC del equipo que tiene la báscula
 # MODULO IMPRESORA
 IP = "127.0.0.1"
 PORT = 9100
 NOMBRE_EMPRESA = 'NOMBRE EMPRESA'
-URL = 'wss://IP:PUERTO'
-KEY = 'KEY'
-CANAL = 'CANAL'
+URL = 'wss://IP:PUERTO' #IP del servidor y puerto del socket
+KEY = 'KEY' #Llave del socket
+CANAL = 'CANAL' #nombre del canal
 TIPO_COMUNICACION = 'ethernet' # USB - ethernet
 NOMBRE_IMPRESORA = 'NOMBRE' # si se usa el por defecto se debe colocar un None
-IMPRESORA_ID = 1
+IMPRESORA_ID = 1 #Se consulta con la logica del servidor
 
 # LECTOR BASCULA
-ROUTE = "C:\\ruta\\archivo.txt"
+ROUTE = "C:\\ruta\\archivo.txt" #Ruta donde se encuentra el peso
 VEL_BAUDIOS = 9600
 
 # CONFIGURACIONES GENERALES
-MODULO_BASCULA = False
-MODULO_IMPRESORA = False
-MODULO_CAPTURA = False
+MODULO_BASCULA = False #True para activar
+MODULO_IMPRESORA = False #True para activar
+MODULO_CAPTURA = False #True para activar
 
 #para ejecutar el servicio varias veces sin que se inicie mas de una instancia
 PUERTO_SOCKET_BLOQUEO = 19876

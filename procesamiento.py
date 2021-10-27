@@ -33,19 +33,19 @@ def formatear_dato(dato):
     print ('dato = %s' % dato)
     if '-' in dato:
         return '0.0'
-    
-    for i in dato:
-        if i == '"':
-            indice += 1
-            continue
-        elif (indice == 1) & (i == '0'):
-            indice += 1
-            continue        
-        else:
-            nuevo+= i
-            indice += 1        
-            
-    # print ('nuevo = %s' % nuevo)
+    nuevo=dato.replace('"','')
+##    for i in dato:
+##        if i == '"':
+##            indice += 1
+##            continue
+##        elif (indice == 1) & (i == '0'):
+##            indice += 1
+##            continue        
+##        else:
+##            nuevo+= i
+##            indice += 1        
+##            
+    #print ('nuevo = %s' % nuevo)
     return nuevo
 
 
