@@ -43,7 +43,7 @@ class ImpresoraZebra:
                   "^FO120, 270^ADN, 36, 20^FD %s ^FS" \
                   "^FO30, 330^ADN. 26, 11^FD LARGO: ^FS" \
                   "^FO120, 330^ADN, 36, 20^FD %s ^FS" \
-                  "^FO330, 270^ADN, 36, 20" \
+                  "^FO400, 270^ADN, 36, 20" \
                   "%s"\
                   "^XZ" % (nombre_empresa,
                            n_etiqueta, testo, nombre_producto, descripcion,
@@ -71,7 +71,7 @@ class ImpresoraZebra:
 
         etiqueta = self.etiqueta(nombre_empresa, n_etiqueta, codigo, pedido, ot,
                                  cantidad, peso, unidades, ancho, unidades_ancho, largo, unidades_largo,
-                                 codigo_barras,nombre_producto)
+                                 codigo_barras,nombre_producto, codigo_b='QR')
         return etiqueta
 
     def imprimir_ethernet(self, etiqueta):

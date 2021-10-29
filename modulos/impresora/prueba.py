@@ -26,6 +26,7 @@ diccionario['n_etiqueta'] = 150
 diccionario['n_producto'] = ''
 diccionario['unidades'] = 'kilos'
 diccionario['codigo'] = 1234567890
+diccionario['tipo_codigo'] = 'QR'
 
 impresoraZebra = ImpresoraZebra(host, pot)
 
