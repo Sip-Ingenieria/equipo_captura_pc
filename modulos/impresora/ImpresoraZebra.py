@@ -48,11 +48,13 @@ class ImpresoraZebra:
                   "^FO65, 160^ADN, 26, 11^FD {op}^FS" \
                   "^FO50, 173^ADN, 36, 20" \
                   "{codigo_qr_bar}" \
-                  "^LH 100,50" \
+                  "^LH40,10" \
                   "^FWB" \
-                  "^FO0, 010^AD, 26, 11^FD #ETIQUETA: {n_etiqueta}^FS" \
+                  "^FO60,040^AD,26,11^FD #ETIQUETA: {n_etiqueta}^FS" \
+                  "^FO0,10^AD,26,11^FB250,2,0,C^FD{nombre_producto}^FS" \
                   "^FWR" \
-                  "^FO435, 0^AD, 26, 11^FD #ETIQUETA: {n_etiqueta}^FS" \
+                  "^FO470,40^AD,26,11^FD #ETIQUETA: {n_etiqueta}^FS" \
+                  "^FO510,25^AD,26,11^FB250,2,0,C^FD{nombre_producto}^FS" \
                   "^LH 129,10" \
                   "^FWN" \
                   "^FO200, 010^ADN, 26, 11^FD REF : ^FS" \
@@ -70,7 +72,8 @@ class ImpresoraZebra:
                   "^FO250, 173^ADN, 36, 20" \
                   "{codigo_qr_bar}" \
                   "^XZ".format(referencia=testo, largo=largo, ancho=ancho, peso=peso, cantidad=cantidad,
-                               op=descripcion,codigo_qr_bar=codigo_barras, n_etiqueta=n_etiqueta)
+                               op=descripcion,codigo_qr_bar=codigo_barras, n_etiqueta=n_etiqueta,
+                               nombre_producto=nombre_producto)
 
         message_byte = message.encode('utf-8')
 
