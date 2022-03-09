@@ -55,6 +55,11 @@ class ImpresoraZebra:
                   "^FWR" \
                   "^FO470,40^AD,26,11^FD #ETIQUETA: {n_etiqueta}^FS" \
                   "^FO510,25^AD,26,11^FB250,2,0,C^FD{nombre_producto}^FS" \
+                  "^LH5,10" \
+                  "^FWB" \
+                  "^FO0,0^AD,26,11^FD OT: {orden_trabajo}^FS" \
+                  "^FWR" \
+                  "^FO610,180^AD,26,11^FD OT: {orden_trabajo}^FS" \
                   "^LH 129,10" \
                   "^FWN" \
                   "^FO200, 010^ADN, 26, 11^FD REF : ^FS" \
@@ -73,7 +78,7 @@ class ImpresoraZebra:
                   "{codigo_qr_bar}" \
                   "^XZ".format(referencia=testo, largo=largo, ancho=ancho, peso=peso, cantidad=cantidad,
                                op=descripcion,codigo_qr_bar=codigo_barras, n_etiqueta=n_etiqueta,
-                               nombre_producto=nombre_producto)
+                               nombre_producto=nombre_producto, orden_trabajo=ot)
 
         message_byte = message.encode('utf-8')
 
