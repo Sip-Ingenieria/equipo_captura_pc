@@ -22,13 +22,13 @@ class ImpresoraZebra:
 
         else:
             codigo_barras = "^BQN, 2, 2" \
-                            "^FDHM,A ETIQ: {n_etiqueta} " \
-                            "REF: {referencia} " \
-                            "LARG: {largo} " \
-                            "ANCH: {ancho} " \
-                            "PESO: {peso} " \
-                            "CANT: {cantidad} " \
-                            "PED: {op} " \
+                            "^FDQA ETIQ: {n_etiqueta}," \
+                            "REF: {referencia}," \
+                            "LARG: {largo}," \
+                            "ANCH: {ancho}," \
+                            "PESO: {peso}," \
+                            "CANT: {cantidad}," \
+                            "PED: {op}," \
                             "^FS".format(referencia=testo, largo=largo, ancho=ancho,
                                          peso=peso, cantidad=cantidad, op=descripcion, n_etiqueta=n_etiqueta)
 
