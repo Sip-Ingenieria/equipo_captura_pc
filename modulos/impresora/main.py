@@ -27,7 +27,7 @@ def on_mensaje(ws, message):
 
         datos = json.loads(message, object_hook=dict)
         if datos['usuario_id'] == str(archivoConfig.IMPRESORA_ID):
-            etiqueta=datos['mensaje_imprimir'].encode('utf8') #un mensaje codificado en utf8
+            etiqueta=datos['mensaje'].encode('utf8') #un mensaje codificado en utf8
             #etiqueta = impresoraZebra.crear_etiqueta(datos, archivoConfig.NOMBRE_EMPRESA)
             if archivoConfig.TIPO_COMUNICACION == 'USB':
                 impresoraZebra.imprimir_usb(etiqueta, archivoConfig.NOMBRE_IMPRESORA)
