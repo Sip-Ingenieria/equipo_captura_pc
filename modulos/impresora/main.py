@@ -20,7 +20,7 @@ logger = log.configurar('servicio_impresora')
 def on_mensaje(ws, message):
 
     impresoraZebra = ImpresoraZebra(archivoConfig.IP, archivoConfig.PORT)
-
+    #print(message)
     try:
         if 'anonymous' in message:
             return
@@ -43,10 +43,18 @@ def on_error(ws, error):
     return
 
 
-def on_close(ws):
+def on_close(ws, close_status_code, close_msg):
+
+    # Because on_close was triggered, we know the opcode = 8
     print ('impresora : ws closed')
     logger.info('impresora : ws closed')
+    print("on_close args:")
 
+    if close_status_code or close_msg:
+
+        print("close status code: " + str(close_status_code))
+
+        print("close message: " + str(close_msg))
 
 def iniciar_con_hilo():
     p = Process(target=iniciar)
