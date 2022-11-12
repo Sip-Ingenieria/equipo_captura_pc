@@ -4,6 +4,7 @@ import json
 import websocket
 import ssl
 import traceback
+import codecs
 #import modulos.impresora.log as log
 import config.config as archivoConfig
 
@@ -27,7 +28,8 @@ def on_mensaje(ws, message):
 
         datos = json.loads(message, object_hook=dict)
         if datos['usuario_id'] == str(archivoConfig.IMPRESORA_ID):
-            etiqueta=datos['mensaje'].encode('utf8') #un mensaje codificado en utf8
+            datos_decode=codecs.decode(datos['mensaje'], 'unicode_escape')
+            etiqueta=datos_decode.encode('utf8') #un mensaje codificado en utf8
             #etiqueta = impresoraZebra.crear_etiqueta(datos, archivoConfig.NOMBRE_EMPRESA)
             if archivoConfig.TIPO_COMUNICACION == 'USB':
                 impresoraZebra.imprimir_usb(etiqueta, archivoConfig.NOMBRE_IMPRESORA)
